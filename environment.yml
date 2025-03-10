@@ -1,0 +1,26 @@
+name: eda_env
+channels:
+  - defaults
+  - conda-forge
+  
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - jupyter
+  - statsmodels
+  - plotly
+  - missingno
+  - openpyxl
+  - nltk
+  - textblob
+  - spacy
+  - wordcloud
+  - gensim
+  - opencv
+  - pillow
+  - umap-learn
