@@ -99,12 +99,9 @@ Exploratory Data Analysis (EDA) helps to understand the structure, relationships
 
 ---
 
-## Real-World Case Studies
+## Full EDAs in this repository
 
-- **Customer Churn Analysis**
-- **Healthcare Analytics (Survival Analysis)**
-- **Stock Market Trends (Finance)**
-- **Sentiment Analysis (NLP)**
-- **Fraud Detection (Feature Engineering)**
+- **Tips Dataset Analysis**
+- **Flights Dataset (Time Series)**
 
 ---
